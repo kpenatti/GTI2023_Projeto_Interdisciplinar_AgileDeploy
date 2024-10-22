@@ -1,1 +1,1 @@
-# GTI2023_Projeto_Interdisciplinar
+# Assessoria: Produção de software

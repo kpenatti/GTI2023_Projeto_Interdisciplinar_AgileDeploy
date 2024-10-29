@@ -13,6 +13,6 @@ Palavras-chave:
 - DevOps / Gerenciamento Ágil / Scrum
 - Integração Contínua
 - Deploy
-- Azure / Boards
+- Azure / Boards (sprints, etc) / Dashboards
 - Repositorio centralizado
 - Commit / git / versionamento

@@ -10,9 +10,9 @@ Para acompanhar o desenvolvimento do projeto, acesse a sessão Wiki.
 
 Palavras-chave:
 
-DevOps / Gerenciamento Ágil / Scrum
-Integração Contínua
-Deploy
-Azure / Boards
-Repositorio centralizado
-commit / git / versionamento
+- DevOps / Gerenciamento Ágil / Scrum
+- Integração Contínua
+- Deploy
+- Azure / Boards
+- Repositorio centralizado
+- Commit / git / versionamento

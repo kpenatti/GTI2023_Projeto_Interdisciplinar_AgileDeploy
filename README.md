@@ -16,3 +16,4 @@ Palavras-chave:
 - Azure / Boards (sprints, etc) / Dashboards
 - Repositorio centralizado
 - Commit / git / versionamento
+- 

@@ -11,9 +11,9 @@ Para acompanhar o desenvolvimento do projeto, acesse a sessão Wiki.
 Palavras-chave:
 
 - DevOps / Gerenciamento Ágil / Scrum
-- Integração Contínua
+- Integração/Entrega Contínua
 - Deploy
 - Azure / Boards (sprints, etc) / Dashboards
 - Repositorio centralizado
 - Commit / git / versionamento
-- 
+- Documentação

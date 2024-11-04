@@ -15,6 +15,7 @@ Palavras-chave:
 - Scrum
 - Integração
 - Entrega Contínua
+- Test
 - Deploy
 - Azure
 - Boards

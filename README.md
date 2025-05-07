@@ -10,6 +10,22 @@ ________________________________________________________________________________
   Com finalidade de simular a ascenção de uma empresa dentro da jornada para a Melhoria de Processo de Software (MPS.BR), a plataforma Aventuras do Conhecimento guia o usuário por uma experiência linear de aprendizado e testes que espelham o processo de aquisição do certificado MPS.BR em todos os seus Níveis de Maturidade.
 
 
+
+
+Palavras-chave:
+
+- Padrão
+- Modelo
+- Processo
+- Engenharia
+- Melhoria
+- Qualidade
+- Desenvolvimento
+- Projeto
+- MPSBR
+- CMM
+- CMMI
+- ISO
 ___________________________________________________________________________________________________________________________________________________________
 
 >Histórico da Revisão/ data: 16/09/2024/ versão: 0.1/ descrição: criação do documento/ autor: Kaique de M. Penatti
